@@ -1,5 +1,5 @@
 {
-    "name": "MX ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ",
+    "name": "Night Vission ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ",
     "description": "ᴀ ᴛɢ ʙᴏᴛ ғᴏʀ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏ ᴀɴᴅ ᴛɢᴄᴀʟʟs! ᴘʀᴏᴊᴇᴄᴛ ʙʏ @Master_X_Updates",
     "logo": "https://telegra.ph/file/657969315fbe1a90fbb84.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "video stream"
     ],
     "website": "https://t.me/RGamer_s",
-    "repository": "https://github.com/Team-MasterXBots/MXVideoStream",
+    "repository": "https://github.com/Captainamarica/NightVission-VideoStreamer-",
     "success_url": "https://t.me/Master_X_Updates",
     "env": {
         "API_ID": {
